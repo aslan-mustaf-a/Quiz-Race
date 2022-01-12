@@ -1,0 +1,50 @@
+.Title_class{
+   font-size: 30px;
+   color:rgb(32, 20, 42);
+   background-color:rgb(115, 152, 233);; 
+   text-align:center;
+   position:fixed;
+   top:0px;
+   width:100%;
+   line-height:2;
+   float:none;
+}
+.Logo_class{
+    width:40%;
+    height:60%;
+    float:left;
+}
+
+.Login_class{
+    color:rgb(255, 255, 255);
+    background-color:black;
+    padding:20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Input_class{
+    border-width: 5px;
+    width: 500px;
+    padding: 20px;
+}
+
+.Button_class{
+    border-width: 5px;
+    width:500px;
+    padding:20px;
+    color:black;
+    background-color:rgb(115, 152, 233);
+    font-size:30px;
+    font-weight:bolder;
+}
+
+.Button_class2{
+    border-width: 5px;
+    width:180px;
+    padding:2px;
+    color:black;
+    background-color:rgb(115, 152, 233);
+    font-size:15px;
+    font-weight:bolder;
+}
